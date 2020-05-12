@@ -1,0 +1,58 @@
+1.Question 1
+what is the type of the following: 1
+
+
+a.float
+
+
+b.int
+
+
+c.str
+
+ans-b
+
+2.Question 2
+what is the result of the following code segment: type(int(12.3))
+
+
+a.int
+
+
+b.float
+
+
+c.str
+
+ans-a
+
+3.Question 3
+What is the result of the following code segment: int(3.99)
+
+
+a.3
+
+
+b.3.99
+
+
+c.4
+
+ans- a
+
+4.Question 4
+What is the result of the following code segment: int(True)
+
+
+a.1
+
+
+b.0
+
+
+c.error
+
+ans-a
+
+
+

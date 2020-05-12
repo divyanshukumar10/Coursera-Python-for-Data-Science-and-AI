@@ -1,0 +1,91 @@
+In Python, if you executed name = 'Lizz', what would be the output of print(name[0:2])?
+
+
+Lizz
+
+
+L
+
+
+Li
+
+Correct Li
+
+2.Question 2
+Consider the string A='1934567', what is the result of the following operation A[1::2]
+
+
+'1934567'
+
+
+'946'
+
+
+'1357'
+
+Correct '946'
+
+3.Question 3
+In Python, what is the result of the following operation: '1'+'2'
+
+
+3
+
+
+'3'
+
+
+'12'
+
+Correct '12'
+
+4.Question 4
+What is the result of the following: 'hello'.upper()
+
+
+'HELLO'
+
+
+'Hello'
+
+
+'hello'
+
+Correct 'HELLO'
+
+5.Question 5
+Consider the string Name="ABCDE", what is the result of the following operation Name.find("B")
+
+
+1
+
+
+2
+
+
+0
+
+Correct 1
+
+6.Question 6
+what is the result of the following : str(1+1)
+
+
+'2'
+
+
+'11'
+
+Correct '2'
+
+7.Question 7
+what is the result of the following: "ABC".replace("AB", "ab")
+
+
+'abC'
+
+
+'ABc'
+
+Correct 'abC'
+
